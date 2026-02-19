@@ -77,11 +77,7 @@ The dataset contains HR employee records used to analyze attrition patterns.
 
 ---
 
-## 🙋‍♂️ Author
 
-**Garima Khirwar**
 
-* Aspiring Data Analyst
-* Currently learning AI/ML & Data Science
 
 
